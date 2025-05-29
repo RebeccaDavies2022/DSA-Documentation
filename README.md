@@ -44,11 +44,15 @@ WHERE A> 15
 
 ```
 
+### Analysis
+
+ 
+![data analysis 2](https://github.com/user-attachments/assets/11635446-5fd8-4553-a2c8-f3fa50da55d3)
 
 
+![DATA analysis](https://github.com/user-attachments/assets/10ae7bb8-31f9-4d95-8128-52df75a31625)
 
 
-
-
-
+*Italics*
+**Bold** 
 
